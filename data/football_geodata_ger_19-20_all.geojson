@@ -1,0 +1,1349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "club": "FC Bayern M\u00fcnchen",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Allianz Arena",
+        "capacity": "75.000",
+        "address": "Werner-Heisenberg-Allee 25, 80939 M\u00fcnchen",
+        "federal_state": "BY",
+        "homepage": "fcbayern.com",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/FC_Bayern_M%C3%BCnchen",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/FC_Bayern_Munich",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/4431170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62465,
+          48.2188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "club": "Borussia Dortmund",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Signal Iduna Park",
+        "capacity": "81.365",
+        "address": "Strobelallee 50, 44139 Dortmund",
+        "federal_state": "NW",
+        "homepage": "bvb.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Borussia_Dortmund",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Borussia_Dortmund",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/531985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.45177,
+          51.49257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "club": "RB Leipzig",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Red Bull Arena",
+        "capacity": "42.959",
+        "address": "Am Sportforum 2, 04105 Leipzig",
+        "federal_state": "SN",
+        "homepage": "dierotenbullen.com",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/RB_Leipzig",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/RB_Leipzig",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/8015060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.34823,
+          51.34579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4",
+        "club": "Bayer Leverkusen",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "BayArena",
+        "capacity": "30.210",
+        "address": "Bismarckstra\u00dfe 122-124, 51373 Leverkusen",
+        "federal_state": "NW",
+        "homepage": "bayer04.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Bayer_04_Leverkusen",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Bayer_04_Leverkusen",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/5403784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.00221,
+          51.03822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5",
+        "club": "Borussia M\u00f6nchengladbach",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Borussia-Park",
+        "capacity": "54.022",
+        "address": "Hennes Weisweiler Allee 1, 41179 M\u00f6nchengladbach",
+        "federal_state": "NW",
+        "homepage": "borussia.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Borussia_M%C3%B6nchengladbach",
+        "wikipedia_english": "https://de.wikipedia.org/wiki/Borussia_M%C3%B6nchengladbach",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/41910550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.38539,
+          51.17463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "club": "VFL Wolfsburg",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Volkswagen Arena",
+        "capacity": "30.000",
+        "address": "In den Allerwiesen 1, 38446 Wolfsburg",
+        "federal_state": "NI",
+        "homepage": "vfl-wolfsburg.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/VfL_Wolfsburg",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/VfL_Wolfsburg",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/557478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.80385,
+          52.43268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "club": "Eintracht Frankfurt",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Commerzbank Arena",
+        "capacity": "51.500",
+        "address": "M\u00f6rfelder Landstra\u00dfe 362, 60528 Frankfurt am Main",
+        "federal_state": "HE",
+        "homepage": "eintracht-frankfurt.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Eintracht_Frankfurt",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Eintracht_Frankfurt",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/5117941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64552,
+          50.0686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8",
+        "club": "Werder Bremen",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Weser-Stadion",
+        "capacity": "42.100",
+        "address": "Franz-B\u00f6hmert-Stra\u00dfe 1, 28205 Bremen",
+        "federal_state": "HB",
+        "homepage": "werder.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Werder_Bremen",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Werder_Bremen",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/160379314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.83762,
+          53.06644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9",
+        "club": "TSG 1899 Hoffenheim",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Dietmar-Hopp-Stadion",
+        "capacity": "30.150",
+        "address": "Silbergasse 45, 74889 Sinsheim",
+        "federal_state": "BW",
+        "homepage": "achtzehn99.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/TSG_1899_Hoffenheim",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/TSG_1899_Hoffenheim",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/28482163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84216,
+          49.27827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "club": "Fortuna D\u00fcsseldorf",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Merkur Spiel-Arena",
+        "capacity": "54.600",
+        "address": "Arena-Stra\u00dfe 1, 40474 D\u00fcsseldorf",
+        "federal_state": "NW",
+        "homepage": "f95.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Fortuna_D%C3%BCsseldorf",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Fortuna_D\u00fcsseldorf",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/24547706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.73314,
+          51.26164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11",
+        "club": "Hertha BSC",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Olympiastadion Berlin",
+        "capacity": "74.649",
+        "address": "Olympischer Platz 3, 14053 Berlin",
+        "federal_state": "BE",
+        "homepage": "herthabsc.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Hertha_BSC",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Hertha_BSC",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/38862723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23951,
+          52.51465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12",
+        "club": "1. FSV Mainz 05",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Opel Arena",
+        "capacity": "33.305",
+        "address": "Eugen-Salomon-Stra\u00dfe 1, 55128 Mainz",
+        "federal_state": "RP",
+        "homepage": "mainz05.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/1._FSV_Mainz_05",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/1._FSV_Mainz_05",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/1338495"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.22439,
+          49.98392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13",
+        "club": "SC Freiburg",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Schwarzwald Stadion",
+        "capacity": "24.000",
+        "address": "Schwarzwaldstra\u00dfe 193 , 79117 Freiburg im Breisgau",
+        "federal_state": "BW",
+        "homepage": "scfreiburg.com",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/SC_Freiburg",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/SC_Freiburg",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/1614762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.89288,
+          47.98896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "14",
+        "club": "FC Schalke 04",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Veltins-Arena",
+        "capacity": "62.000",
+        "address": "Arenaring 1, 45891 Gelsenkirchen",
+        "federal_state": "NW",
+        "homepage": "schalke04.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/FC_Schalke_04",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/FC_Schalke_04",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/147192563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.06759,
+          51.55459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "club": "FC Augsburg",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "WWK-Arena",
+        "capacity": "30.660",
+        "address": "B\u00fcrgermeister-Ulrich-Stra\u00dfe 90, 86199 Augsburg",
+        "federal_state": "BY",
+        "homepage": "fcaugsburg.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/FC_Augsburg",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/FC_Augsburg",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/189459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.88595,
+          48.32312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "16",
+        "club": "1. FC K\u00f6ln",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Rheinenergiestadion",
+        "capacity": "49.698",
+        "address": "Aachener Stra\u00dfe 999, 50933 K\u00f6ln",
+        "federal_state": "NW",
+        "homepage": "fc.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/1._FC_K\u00f6ln",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/1._FC_K\u00f6ln",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/271681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8751,
+          50.93352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "17",
+        "club": "SC Paderborn 07",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Benteler-Arena",
+        "capacity": "15.000",
+        "address": "Paderborner Stra\u00dfe 89, 33104 Paderborn",
+        "federal_state": "NW",
+        "homepage": "scp07.de",
+        "wikipedia_german": "https://de.m.wikipedia.org/wiki/SC_Paderborn_07",
+        "wikipedia_english": "https://en.m.wikipedia.org/wiki/SC_Paderborn_07",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/4576513"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.71106,
+          51.73078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "18",
+        "club": "1. FC Union Berlin",
+        "season_2019-2020": "germany_league_1",
+        "league": "Bundesliga",
+        "stadium": "Stadion An der Alten F\u00f6rsterei",
+        "capacity": "22.012",
+        "address": "An der Wuhlheide 263, 12555 Berlin",
+        "federal_state": "BE",
+        "homepage": "fc-union-berlin.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/1._FC_Union_Berlin",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/1._FC_Union_Berlin",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/43127006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56814,
+          52.45737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "19",
+        "club": "VFB Stuttgart",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Mercedes-Benz Arena",
+        "capacity": "60.449",
+        "address": "Mercedesstra\u00dfe 87 Stuttgart, 70372 Stuttgart",
+        "federal_state": "BW",
+        "homepage": "vfb.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/VfB_Stuttgart",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/VfB_Stuttgart",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/9207449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.23211,
+          48.79225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "20",
+        "club": "Hannover 96",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "HDI Arena",
+        "capacity": "49.200",
+        "address": "Robert-Enke-Stra\u00dfe 3, 30169 Hannover",
+        "federal_state": "NI",
+        "homepage": "hannover96.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Hannover_96",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Hannover_96",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/92928"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.73122,
+          52.36003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "21",
+        "club": "1. FC N\u00fcrnberg",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Max-Morlock-Stadion",
+        "capacity": "50.000",
+        "address": "Max-Morlock-Platz 1, 90471 N\u00fcrnberg",
+        "federal_state": "BY",
+        "homepage": "fcn.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/1._FC_N%C3%BCrnberg",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/1._FC_N%C3%BCrnberg",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/144526202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1257,
+          49.42626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "22",
+        "club": "Hamburger SV",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Volksparkstadion",
+        "capacity": "57.000",
+        "address": "Sylversterallee 7, 22525 Hamburg",
+        "federal_state": "HH",
+        "homepage": "hsv-ev.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Hamburger_SV",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Hamburger_SV",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/19617443"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.89864,
+          53.58717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "23",
+        "club": "1. FC Heidenheim",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Voith-Arena",
+        "capacity": "15.000",
+        "address": "Schlo\u00dfhaustra\u00dfe 162, 89522 Heidenheim an der Brenz",
+        "federal_state": "BW",
+        "homepage": "fc-heidenheim.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/1._FC_Heidenheim",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/1._FC_Heidenheim",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/681162690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13921,
+          48.66845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "24",
+        "club": "Holstein Kiel",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Holstein-Stadion",
+        "capacity": "15.034",
+        "address": "Westring 501, 24106 Kiel",
+        "federal_state": "SH",
+        "homepage": "holstein-kiel.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Holstein_Kiel",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Holstein_Kiel",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/277125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1237,
+          54.34918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "25",
+        "club": "Arminia Bielefeld",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Sch\u00fccoArena",
+        "capacity": "26.515",
+        "address": "Melanchthonstra\u00dfe 31A, 33615 Bielefeld",
+        "federal_state": "NW",
+        "homepage": "arminia-bielefeld.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Arminia_Bielefeld",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Arminia_Bielefeld",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/19738505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.51674,
+          52.03203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "26",
+        "club": "SSV Jahn Regensburg",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Continental Arena",
+        "capacity": "15.210",
+        "address": "Franz-Josef-Strau\u00df-Allee 22, 93053 Regensburg",
+        "federal_state": "BY",
+        "homepage": "ssv-jahn.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/SSV_Jahn_Regensburg",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/SSV_Jahn_Regensburg",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/5990703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.10741,
+          48.9908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "27",
+        "club": "FC St. Pauli",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Millerntor-Stadion",
+        "capacity": "29.546",
+        "address": "Harald-Stender-Platz 1, 20359 Hamburg",
+        "federal_state": "HH",
+        "homepage": "fcstpauli.com",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/FC_St._Pauli",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/FC_St._Pauli",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/381109520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96773,
+          53.55458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "28",
+        "club": "SV Darmstadt 98",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Merck-Stadion am B\u00f6llenfalltor",
+        "capacity": "11.000",
+        "address": "Nieder-Ramst\u00e4dter Stra\u00dfe 170, 64285 Darmstadt",
+        "federal_state": "HE",
+        "homepage": "sv98.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/SV_Darmstadt_98",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/SV_Darmstadt_98",
+        "openstreetmap_object": "https://www.openstreetmap.org/node/5895693869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67239,
+          49.85773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "29",
+        "club": "VfL Bochum",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Vonovia Ruhrstadion",
+        "capacity": "27.599",
+        "address": "Castroper Stra\u00dfe 145, 44791 Bochum",
+        "federal_state": "NW",
+        "homepage": "vfl-bochum.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/VfL_Bochum",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/VfL_Bochum",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/18690902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.23647,
+          51.48991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "30",
+        "club": "Dynamo Dresden",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Rudolf-Harbig-Stadion",
+        "capacity": "32.066",
+        "address": "Lenn\u00e9stra\u00dfe 12, 01069 Dresden",
+        "federal_state": "SN",
+        "homepage": "dynamo-dresden.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Dynamo_Dresden",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Dynamo_Dresden",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/101383573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74804,
+          51.0409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "31",
+        "club": "SpVgg Greuther F\u00fcrth",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Sportpark Ronhof Thomas Sommer",
+        "capacity": "18.000",
+        "address": "Laubenweg 60, 90765 F\u00fcrth",
+        "federal_state": "BY",
+        "homepage": "greuther-fuerth.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/SpVgg_Greuther_F\u00fcrth",
+        "wikipedia_english": "https://en.m.wikipedia.org/wiki/SpVgg_Greuther_F\u00fcrth",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/106578003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.99921,
+          49.487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "32",
+        "club": "FC Erzgebirge Aue",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Erzgebirgsstadion",
+        "capacity": "16.458",
+        "address": "L\u00f6\u00dfnitzer Stra\u00dfe, 08280 Aue",
+        "federal_state": "SN",
+        "homepage": "fc-erzgebirge.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/FC_Erzgebirge_Aue",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/FC_Erzgebirge_Aue",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/440664813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.71128,
+          50.59782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "33",
+        "club": "SV Sandhausen",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "BWT-Stadion am Hardtwald",
+        "capacity": "15.414",
+        "address": "Jahnstra\u00dfe 1, 69207 Sandhausen",
+        "federal_state": "BW",
+        "homepage": "svs1916.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/SV_Sandhausen",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/SV_Sandhausen",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/223139712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64772,
+          49.33207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "34",
+        "club": "VfL Osnabr\u00fcck",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Stadion an der Bremer Br\u00fccke",
+        "capacity": "16.667",
+        "address": "Scharnhorststra\u00dfe 50, 49084 Osnabr\u00fcck",
+        "federal_state": "NI",
+        "homepage": "vfl.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/VfL_Osnabr\u00fcck",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/VfL_Osnabr%C3%BCck",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/181867737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.07129,
+          52.28082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "35",
+        "club": "Karlsruhe SC",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Wildparkstadion",
+        "capacity": "18.163",
+        "address": "Adenauerring 17, 76131 Karlsruhe",
+        "federal_state": "BW",
+        "homepage": "ksc.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Karlsruher_SC",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Karlsruher_SC",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/87761383"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.41304,
+          49.02002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "36",
+        "club": "SV Wehen Wiesbaden",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Brita-Arena",
+        "capacity": "12.566",
+        "address": "Berliner Stra\u00dfe 9, 65189 Wiesbaden",
+        "federal_state": "HE",
+        "homepage": "svwehen-wiesbaden.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/SV_Wehen_Wiesbaden",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/SV_Wehen_Wiesbaden",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/201467283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.25657,
+          50.0713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "37",
+        "club": "FC Ingolstadt 04",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Audi-Sportpark",
+        "capacity": "15.200",
+        "address": "Am Sportpark 1b, 85053 Ingolstadt",
+        "federal_state": "BY",
+        "homepage": "fcingolstadt.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/FC_Ingolstadt_04",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/FC_Ingolstadt_04",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/67237986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.48552,
+          48.74546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "38",
+        "club": "1. FC Magdeburg",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "MDCC-Arena",
+        "capacity": "25.500",
+        "address": "Heinz-Kr\u00fcgel-Platz 1, 39114 Magdeburg",
+        "federal_state": "ST",
+        "homepage": "1.fc-magdeburg.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/1._FC_Magdeburg",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/1._FC_Magdeburg",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/28489919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.67079,
+          52.12513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "39",
+        "club": "MSV Duisburg",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Schauinsland-Reisen-Arena",
+        "capacity": "31.500",
+        "address": "Margaretenstra\u00dfe 5\u20137, 47055 Duisburg",
+        "federal_state": "NW",
+        "homepage": "msv-duisburg.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/MSV_Duisburg",
+        "wikipedia_english": "https://en.m.wikipedia.org/wiki/MSV_Duisburg",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/23610764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77869,
+          51.40901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "40",
+        "club": "Hallescher FC",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Erdgas Sportpark",
+        "capacity": "15.057",
+        "address": "Kantstra\u00dfe 2, 06110 Halle (Saale)",
+        "federal_state": "ST",
+        "homepage": "hallescherfc.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Hallescher_FC",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Hallescher_FC",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/130575966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96214,
+          51.46534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "41",
+        "club": "W\u00fcrzburger Kickers",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "flyeralarm Arena",
+        "capacity": "13.090",
+        "address": "Mittlerer Dallenbergweg 49, 97082 W\u00fcrzburg",
+        "federal_state": "BY",
+        "homepage": "wuerzburger-kickers.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/W\u00fcrzburger_Kickers",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/W%C3%BCrzburger_Kickers",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/663167079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9329,
+          49.7672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "42",
+        "club": "Hansa Rostock",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Ostseestadion",
+        "capacity": "29.000",
+        "address": "Kopernikusstra\u00dfe 17, 18057 Rostock",
+        "federal_state": "MV",
+        "homepage": "fc-hansa.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Hansa_Rostock",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/F.C._Hansa_Rostock",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/33781737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.09512,
+          54.08497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "43",
+        "club": "FSV Zwickau",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Stadion Zwickau",
+        "capacity": "10.134",
+        "address": "Stadionallee 1, 08066 Zwickau",
+        "federal_state": "SN",
+        "homepage": "fsv-zwickau.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/FSV_Zwickau",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/FSV_Zwickau",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/429317210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51936,
+          50.72854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "44",
+        "club": "SC Preu\u00dfen 06 e. V. M\u00fcnster",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Preu\u00dfenstadion",
+        "capacity": "14.300",
+        "address": "Hammer Stra\u00dfe 302, 48153 M\u00fcnster",
+        "federal_state": "NW",
+        "homepage": "scpreussen-muenster.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Preu\u00dfen_M\u00fcnster",
+        "wikipedia_english": "https://en.m.wikipedia.org/wiki/SC_Preu\u00dfen_M\u00fcnster",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/1360363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62457,
+          51.92985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "45",
+        "club": "1. FC Kaiserslautern",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Fritz-Walter-Stadion",
+        "capacity": "49.850",
+        "address": "Fritz-Walter-Stra\u00dfe 1, 67663 Kaiserslautern",
+        "federal_state": "RP",
+        "homepage": "fck.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/1._FC_Kaiserslautern",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/1._FC_Kaiserslautern",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/27880400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.77643,
+          49.4347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "46",
+        "club": "SpVgg Unterhaching",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Sportpark Unterhaching",
+        "capacity": "15.053",
+        "address": "Am Sportpark 9, 82008 Unterhaching",
+        "federal_state": "BY",
+        "homepage": "spvggunterhaching.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/SpVgg_Unterhaching",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/SpVgg_Unterhaching",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/4073020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61584,
+          48.07378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "47",
+        "club": "KFC Uerdingen 05",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Merkur Spiel-Arena",
+        "capacity": "54.600",
+        "address": "Arena-Stra\u00dfe 1, 40474 D\u00fcsseldorf",
+        "federal_state": "NW",
+        "homepage": "kfc-uerdingen.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/KFC_Uerdingen_05",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/KFC_Uerdingen_05",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/24547706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.73314,
+          51.26164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "48",
+        "club": "TSV 1860 M\u00fcnchen",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Gr\u00fcnwalder Stadion",
+        "capacity": "15.000",
+        "address": "Gr\u00fcnwalder Stra\u00dfe 2\u20134, 81547 M\u00fcnchen",
+        "federal_state": "BY",
+        "homepage": "tsv1860.org",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/TSV_1860_M\u00fcnchen",
+        "wikipedia_english": "https://en.m.wikipedia.org/wiki/TSV_1860_Munich",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/4548483"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57448,
+          48.111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "49",
+        "club": "SV Meppen",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "H\u00e4nsch-Arena",
+        "capacity": "13.696",
+        "address": "Lathener Stra\u00dfe 15A, 49716 Meppen",
+        "federal_state": "NI",
+        "homepage": "svmeppen.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/SV_Meppen",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/SV_Meppen",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/196582775"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.298,
+          52.70802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "50",
+        "club": "FC Carl Zeiss Jena",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Ernst-Abbe-Sportfeld",
+        "capacity": "10.445",
+        "address": "Oberaue 3, 07745 Jena",
+        "federal_state": "TH",
+        "homepage": "fc-carlzeiss-jena.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/FC_Carl_Zeiss_Jena",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/FC_Carl_Zeiss_Jena",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/114681790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58291,
+          50.91606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "51",
+        "club": "SG Sonnenhof Gro\u00dfaspach",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "mechatronik Arena",
+        "capacity": "10.001",
+        "address": "Im Fautenhau 1, 71546 Aspach-Gro\u00dfaspach",
+        "federal_state": "BW",
+        "homepage": "sg94.de",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/SG_Sonnenhof_Gro\u00dfaspach",
+        "wikipedia_english": "https://en.m.wikipedia.org/wiki/SG_Sonnenhof_Gro\u00dfaspach",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/372567612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.39294,
+          48.98053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "52",
+        "club": "Eintracht Braunschweig",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Eintracht-Stadion",
+        "capacity": "23.325",
+        "address": "Hamburger Stra\u00dfe 210, 38112 Braunschweig",
+        "federal_state": "NI",
+        "homepage": "eintracht.com",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/Eintracht_Braunschweig",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/Eintracht_Braunschweig",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/110564704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52157,
+          52.29012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "53",
+        "club": "Chemnitzer FC",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Stadion \u2013 An der Gellertstra\u00dfe",
+        "capacity": "15.200",
+        "address": "Gellertstra\u00dfe 25, 09130 Chemnitz",
+        "federal_state": "SN",
+        "homepage": "chemnitzerfc.de",
+        "wikipedia_german": "https://de.m.wikipedia.org/wiki/Chemnitzer_FC",
+        "wikipedia_english": "https://en.m.wikipedia.org/wiki/Chemnitzer_FC",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/653342937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.94565,
+          50.84219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "54",
+        "club": "SV Waldhof Mannheim",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Carl-Benz-Stadion",
+        "capacity": "25.721",
+        "address": "Theodor-Heuss-Anlage 20, 68165 Mannheim",
+        "federal_state": "BW",
+        "homepage": "svw07.de",
+        "wikipedia_german": "https://de.m.wikipedia.org/wiki/SV_Waldhof_Mannheim",
+        "wikipedia_english": "https://en.m.wikipedia.org/wiki/SV_Waldhof_Mannheim",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/181915119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5025,
+          49.47948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "55",
+        "club": "FC Viktoria K\u00f6ln",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Sportpark H\u00f6henberg",
+        "capacity": "6.214",
+        "address": "H\u00f6henberger Ring, 51103 K\u00f6ln",
+        "federal_state": "NW",
+        "homepage": "viktoria1904.de",
+        "wikipedia_german": "https://de.m.wikipedia.org/wiki/FC_Viktoria_K\u00f6ln",
+        "wikipedia_english": "https://en.m.wikipedia.org/wiki/FC_Viktoria_K\u00f6ln",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/26490834"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.03043,
+          50.94517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "56",
+        "club": "FC Bayern M\u00fcnchen II",
+        "season_2019-2020": "germany_league_3",
+        "league": "3. Liga",
+        "stadium": "Gr\u00fcnwalder Stadion",
+        "capacity": "15.000",
+        "address": "Gr\u00fcnwalder Stra\u00dfe 2-4, 81547 M\u00fcnchen",
+        "federal_state": "BY",
+        "homepage": "fcbayern.com",
+        "wikipedia_german": "https://de.m.wikipedia.org/wiki/FC_Bayern_M\u00fcnchen#Die_zweite_Mannschaft",
+        "wikipedia_english": "https://en.m.wikipedia.org/wiki/FC_Bayern_Munich",
+        "openstreetmap_object": "https://www.openstreetmap.org/relation/4548483"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57448,
+          48.111
+        ]
+      }
+    }
+  ]
+}

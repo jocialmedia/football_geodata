@@ -1,2 +1,79 @@
-# football_geodata
-Football club geodata. Focus on German leagues.
+# Football Geodata
+
+As far as I know there is no up-to-date source for geodata of German football clubs. So I made one. If you find an error please leave me a message. If you find it useful please leave me a star.
+
+## Files
+- [football_geodata_ger_19-20_all.csv](data/football_geodata_ger_19-20_all.csv)
+- [football_geodata_ger_19-20_all.geojson](data/football_geodata_ger_19-20_all.geojson)
+
+
+## Stats
+
+| League Identifier | League        | Clubs   | Capacity       |
+|-------------------|---------------|---------|----------------|
+| germany_league_1  | Bundesliga    | 18      | 803.230        |
+| germany_league_2  | 2. Bundesliga | 18      | 485.887        |
+| germany_league_3  | 3. Liga       | 18      | 407.886        |
+|                   | **All**       | **56**  | **1.697.003**  |
+
+## Data Schema 
+
+Key                   | Description                                   | Origin/Source |
+--------------------- | --------------------------------------------- |---------------|
+id                    | Id in context of this file                    | -             |
+season_2019-2020      | League identifier                             | Wikipedia     |
+league                | Name of league                                | Wikipedia     |
+club                  | Name of the club                              | Wikipedia     |
+stadium               | Name of the stadium                           | Wikipedia     |
+capacity              | Capacity of the stadium                       | Wikipedia     |
+street                | Address of stadium                            | Own research  |
+postcode              | Address of stadium                            | Own research  |
+city                  | Address of stadium                            | Own research  |
+federal_state         | Federal state the stadium is located in       | Own research  |
+latitude              | Taken from the center of main pitch           | Own research  |
+longitude             | Taken from the center of main pitch           | Own research  |
+homepage              | Homepage of the club                          | Own research  | 
+wikipedia_de          | Related Wikipedia page in German              | Own research  | 
+wikipedia_en          | Related Wikipedia page in English             | Own research  | 
+openstreetmap_object  | Stadium as object within OpenStreetMap        | Own research  | 
+
+## Data Example
+ ```
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "27",
+        "club": "FC St. Pauli",
+        "season_2019-2020": "germany_league_2",
+        "league": "2. Bundesliga",
+        "stadium": "Millerntor-Stadion",
+        "capacity": "29.546",
+        "address": "Harald-Stender-Platz 1, 20359 Hamburg",
+        "federal_state": "HH",
+        "homepage": "fcstpauli.com",
+        "wikipedia_german": "https://de.wikipedia.org/wiki/FC_St._Pauli",
+        "wikipedia_english": "https://en.wikipedia.org/wiki/FC_St._Pauli",
+        "openstreetmap_object": "https://www.openstreetmap.org/way/381109520"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.96773, 53.55458] }
+    }
+  ]
+}
+ ``` 
+
+
+## Remarks
+- The order is based on the position of the club at the end of season 2018/2019
+- The stadium of KFC Uerdingen is currently unfit for use so the club has to play in stadiums of other clubs like MSV Duisburg (Season 2018/2019) and Fortuna Düsseldorf (Season 2019/2020). This is why in this dataset the stadium information at Id 10 and 47 are identical. 
+- The second Team of the FC Bayern München uses the same stadium as the TSV 1860 München. This is why in this dataset the stadium information at Id 48 and 56 are identical.
+
+## Thank you to
+- [OpenStreetMap](https://www.openstreetmap.org/about)
+- [Python](https://www.python.org)
+- [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:About)
+
+## Reclaimer
+The information given here is public. There is no commercial interest whatsover.
