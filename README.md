@@ -17,10 +17,10 @@ As far as I know there is no up-to-date source for geodata of German football cl
 | germany_league_3    | 3. Liga               | 18       | 407.886        |
 | germany_league_4    | Regionalliga Nord     | 18       | 112.030        |
 | germany_league_4    | Regionalliga Nordost  | 18       | 183.288        |
-| germany_league_4    | Regionalliga West     | 18       | 204.392        |
+| germany_league_4    | Regionalliga West     | 19       | 204.392        |
 | germany_league_4    | Regionalliga Südwest  | 18       | 172.235        |
 | germany_league_4    | Regionalliga Bayern   | 18       | 139.840        |
-|                     | **All**               | **146**  | **2.508.788**  |
+|                     | **All**               | **147**  | **2.508.788**  |
 
 
 ## Data Schema 
